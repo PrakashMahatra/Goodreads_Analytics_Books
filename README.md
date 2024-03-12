@@ -20,6 +20,7 @@ This project involves analyzing data obtained from Goodreads, a popular website 
 - `data/`: Contains the dataset obtained from the Goodreads website and any intermediate datasets created during the project.
 - `Plots.doc`: **QUICK VIEW ON PLOTS AND GRAPHS**.
 - `README.md`: The README file providing an overview of the project.
+- `Requirements.txt`: All libraries and tools needed for this project. 
 
 ## Technologies Used
 - Python
