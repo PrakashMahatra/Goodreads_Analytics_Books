@@ -18,7 +18,7 @@ This project involves analyzing data obtained from Goodreads, a popular website 
 ## Project Structure
 - `notebooks/`: Contains Jupyter notebooks used for data scraping, cleaning, and EDA.
 - `data/`: Contains the dataset obtained from the Goodreads website and any intermediate datasets created during the project.
-- `EDA_pdf/`: Contains pdf of notebook EDA_goodreads for **QUICK VIEW ON PLOTS AND GRAPHS**.
+- `Plots.doc`: **QUICK VIEW ON PLOTS AND GRAPHS**.
 - `README.md`: The README file providing an overview of the project.
 
 ## Technologies Used
