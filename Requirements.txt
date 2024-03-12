@@ -1,1 +1,9 @@
+pandas 
+numpy
+requests
+bs4  
+BeautifulSoup
+matplotlib.pyplot as ply
+seaborn 
+plotly
 
